@@ -39,8 +39,6 @@ public class EnemyController : MonoBehaviour
                 FaceTarget();
                 agent.isStopped = true;
             }
-
-            
         }
     }
 
